@@ -1,9 +1,11 @@
 \# Omni-Channel Retail Sales Analysis (SQL)
 
+
 This project focuses on analyzing customer behavior and sales performance across two main distribution channels: \*\*Online Store\*\* and \*\*Brick-and-Mortar (Offline) Stores\*\*. Using advanced SQL techniques, the analysis provides data-driven insights into customer spending habits, cross-channel interactions, Average Order Value (AOV), and seasonal purchase trends.
 
 
 The core objective is to help the business understand user engagement, optimize marketing strategies, and identify high-value customer segments.
+
 
 
 \## 🛠️ Tech Stack \& Key SQL Concepts Used
